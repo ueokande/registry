@@ -61,7 +61,7 @@ the packet mark.
 |------------|------------------------------|----------------------------------|
 | Any        | [OpenShift][openshift-ovn]   | [Source code][openshift-ovn-src] |
 | 0x00000800 | [Antrea][antrea]             | [Documentation][antrea-src]      |
-| 0x1337     | [Istio][istio]               | [Documentation][istio-src]       |
+| 1337       | [Istio][istio]               | [Documentation][istio-src]       |
 | 0x1e7700ce | [AWS AppMesh][aws-appmesh]   | [Documentation][aws-appmesh-src] |
 
 [antrea]: https://github.com/vmware-tanzu/antrea
